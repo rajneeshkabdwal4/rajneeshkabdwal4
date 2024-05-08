@@ -11,7 +11,7 @@ Let's connect and explore collaborations in the dynamic field of technology and 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at Graphic Era Deemed to be University.
 - 📝 I write in-depth, long-form articles on my GeeksforGeeks, accumulating over 2k views.
 - 🌐 Proud member of the National Service Scheme, contributing to the society.
-- ✍️ Techincal Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/), gearing up to share valuable insights with the global coding community.
+- ✍️ Technical Content Writer at [GeeksforGeeks](https://www.geeksforgeeks.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
 - [Jupyter Notebook](https://www.geeksforgeeks.org/jupyter-notebook/)
