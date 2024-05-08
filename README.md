@@ -22,7 +22,8 @@ Let's connect and explore collaborations in the dynamic field of technology and 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development and Machine Learning
+- 🚀 Currently delving into Full Stack Web Development and Machine Learning to broaden my skill set and tackle diverse challenges in the tech industry.
+- 📚 Additionally, actively learning Data Structures and Algorithms with C++ to strengthen my problem-solving abilities and algorithmic thinking.
 
  ## 🏆 Achievements
 
